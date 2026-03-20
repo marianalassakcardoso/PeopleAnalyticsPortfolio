@@ -6,7 +6,7 @@ to workforce and HR data.
 
 Projects include:
 
-- Employee Turnover Prediction
+- Employee Resignation Prediction
 - Employee Segmentation
 - HR Analytics Dashboard
 - Salary Equity Analysis
